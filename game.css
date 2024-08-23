@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+}
+.gm1 {
+    margin:100px auto;
+    width: 600px;
+    height: 500px;
+    border-radius: 0px;
+    border: 2px solid black;
+    padding-top: 25px;
+    background-color: black;
+    color: white;
+
+}
+.gm1 p{
+    text-align:left;
+    padding-left: 170px;
+}
+.buton{
+       margin:25px;
+}
+.won{
+    height: 500px;
+    text-align: center;
+    padding-top: 240px;
+    background-image: url("./wonemoji.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.5;
+    color:black;
+}
+.won1{
+    height: 500px;
+    text-align: center;
+    padding-top: 240px;
+    background-image: url("./lose.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.5;
+    color:black;
+}
+
